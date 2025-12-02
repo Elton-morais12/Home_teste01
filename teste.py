@@ -7,3 +7,12 @@
 # print('numero digitado', numero)
 # print('Anterior:', anterior)
 # print('Sucessor', sucessor)
+
+
+#caixa eletronico
+# usuario = input('Digite usuario: ')
+# password = int(input('password: '))
+# if password == 12 :
+#     print('SENHA VALIDA')
+# elif password > 12 or -12:
+#     print('SENHA INCORRETA')    
